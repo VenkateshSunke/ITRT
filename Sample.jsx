@@ -2,9 +2,7 @@ import React from "react";
 
 const SampleButton = ({ label, onClick }) => {
   return (
-    <button onClick={onClick}>
-      {label}
-    </button>
+   <div>I am testing this with jsx file</div>
   );
 };
 
